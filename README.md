@@ -110,6 +110,6 @@ Este es el prototipo visual del proyecto BLOCKYDOCS.
 
 Puedes visualizar el diseño y la navegación desde el siguiente enlace:
 
-https://mockitt.com/proto/6YSFEkOpsw9v0jmnC7vUHV/sharing?view_mode=read_only #APP CERTIFICACIÓN BLOCKCHAIN PARA DOCUMENTOS -分享
+https://mockitt.com/proto/6YSFEkOpsw9v0jmnC7vUHV/sharing?view_mode=device&screen=rbpUlDCvZyAsStiI6&canvasId=rcUlgW1giKyJBoav #APP CERTIFICACIÓN BLOCKCHAIN PARA DOCUMENTOS -分享
 
 Este enlace muestra la interfaz propuesta para la aplicación de certificación de documentos mediante blockchain.
