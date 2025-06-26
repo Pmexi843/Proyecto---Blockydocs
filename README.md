@@ -103,5 +103,4 @@ Este proyecto fue desarrollado como MVP educativo. Puedes usarlo y modificarlo l
 ## Autor
 
 Proyecto desarrollado por el equipo de BLOCKYDOCS.
-"""
 
