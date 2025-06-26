@@ -94,16 +94,6 @@ Certificación y verificación de documentos con blockchain mediante una app web
 
 ---
 
-## Licencia
-
-Este proyecto fue desarrollado como MVP educativo. Puedes usarlo y modificarlo libremente.
-
----
-
-## Autor
-
-Proyecto desarrollado por el equipo de BLOCKYDOCS.
-
 ## APP CERTIFICACIÓN BLOCKCHAIN PARA DOCUMENTOS
 
 Este es el prototipo visual del proyecto BLOCKYDOCS.
@@ -113,3 +103,13 @@ Puedes visualizar el diseño y la navegación desde el siguiente enlace:
 https://mockitt.com/proto/6YSFEkOpsw9v0jmnC7vUHV/sharing?view_mode=device&screen=rbpUlDCvZyAsStiI6&canvasId=rcUlgW1giKyJBoav #APP CERTIFICACIÓN BLOCKCHAIN PARA DOCUMENTOS -分享
 
 Este enlace muestra la interfaz propuesta para la aplicación de certificación de documentos mediante blockchain.
+
+## Licencia
+
+Este proyecto fue desarrollado como MVP educativo. Puedes usarlo y modificarlo libremente.
+
+---
+
+## Autor
+
+Proyecto desarrollado por el equipo de BLOCKYDOCS.
