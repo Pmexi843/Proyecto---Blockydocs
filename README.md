@@ -1,7 +1,6 @@
 # Proyecto---Blockydocs
 Certificación y verificación de documentos con blockchain mediante una app web y móvil.
-# Crear el contenido del archivo README.md con descripción y pasos de instalación
-readme_content = """
+
 # BLOCKYDOCS – Certificación de Documentos con Blockchain
 
 **BLOCKYDOCS** es una aplicación web y móvil para la certificación de documentos mediante tecnología blockchain. Permite a los usuarios subir archivos, generar su hash, firmarlos con MetaMask y almacenarlos en la red Ethereum como comprobante de autenticidad.
@@ -106,9 +105,3 @@ Este proyecto fue desarrollado como MVP educativo. Puedes usarlo y modificarlo l
 Proyecto desarrollado por el equipo de BLOCKYDOCS.
 """
 
-# Guardar el contenido en un archivo README.md
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-readme_path
